@@ -1,5 +1,5 @@
 GenAI Smart City Assistant:
-- A demo project for a sustainable "Smart City Assistant" built using "IBM Granite LLM".
+- A project for a sustainable "Smart City Assistant" built using "IBM Granite LLM".
 - This assistant helps users interact with smart city infrastructure and services more efficiently using AI.
 
 Features:
