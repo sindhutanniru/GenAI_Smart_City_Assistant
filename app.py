@@ -12,7 +12,7 @@ def get_ai_response(user_input):
             return responses[key]
     return "Try promoting green energy, smart buildings, and sustainable mobility."
 
-st.title("🌆 Sustainable Smart City Assistant")
+st.title("Sustainable Smart City Assistant")
 
 user_input = st.text_input("Ask your question related to sustainability:")
 
