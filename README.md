@@ -15,7 +15,7 @@ Technologies Used:
 Getting Started:
 1. Clone the repository
 2. Run The App
- -python app.py
+ -python SinApp.py
 3. Files
 - app.py – Main application script
 4. Author
