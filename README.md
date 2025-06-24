@@ -25,5 +25,7 @@ GitHub: [@sindhutanniru](https://github.com/sindhutanniru)
 5. License
 - This project is open-source and available under the [MIT License](LICENSE).
 6. Demo Video
-- [▶ Watch Project Demo on YouTube](https://youtu.be/nEMoHWOXmeI?si=5H56EFmBLiExFd9W)
+- [ Watch Project Demo on YouTube](https://youtu.be/nEMoHWOXmeI?si=5H56EFmBLiExFd9W)
+
+
 ADDED DEMO VIDEO LINK
